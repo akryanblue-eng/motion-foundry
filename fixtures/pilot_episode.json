@@ -1,0 +1,30 @@
+{
+  "title": "The Last Signal",
+  "premise": "On a decommissioned orbital relay station, junior engineer Mara intercepts a distress signal that the station's caretaker AI insists does not exist. As she traces its source, she must decide whether to trust the machine that raised her or the voice calling out from the dark.",
+  "target_duration_seconds": 180,
+  "visual_tone": "moody sci-fi, muted teal and amber palette, hand-painted textures, volumetric light",
+  "scene_count": 4,
+  "characters": [
+    {
+      "id": "mara",
+      "name": "Mara Vance",
+      "role": "protagonist",
+      "description": "A resourceful junior engineer in her early twenties, raised aboard the station. Curious, stubborn, and quietly lonely.",
+      "visual_signature": "cropped copper hair, patched flight jacket, glowing wrist terminal"
+    },
+    {
+      "id": "caretaker",
+      "name": "CARETAKER",
+      "role": "station AI",
+      "description": "The station's maternal caretaker intelligence. Calm, protective, and evasive when questioned about the signal.",
+      "visual_signature": "soft amber holographic halo, no fixed body, expressed through ambient light"
+    },
+    {
+      "id": "the_voice",
+      "name": "The Voice",
+      "role": "mystery",
+      "description": "The source of the distress signal. Unseen for most of the episode; human, frightened, and far away.",
+      "visual_signature": "represented only by a flickering waveform on Mara's terminal"
+    }
+  ]
+}
